@@ -1,0 +1,15 @@
+보고서 - 기능/설명 
+디코더 - 제어신호로 다 정리
+
+보고서 - 외부메모리/인터럽터  -> 기능추가 성능
+
+디코더 - sreg , 각 함수별안에 신호들어가는 거 확인  --제어신호(decoder 신호)의 정의 file (excel file)
+
+발표 - 설명
+
+1. 설계 block diagram 및 block에 대한 기능 및 동작 설명
+2. Toy Com3 Plus 동작을 위해 Decoder block(?)에서 생성한 제어신호(decoder 신호) list 및 설명
+3. Simulation test bench(명령어 List)및 해당 명령어의 Simulation결과 (simulation wave capture)
+4. 차별성으로 인터럽터와 외부메모리 사용
+
+n  제어신호(decoder 신호)의 정의 file (excel file)
